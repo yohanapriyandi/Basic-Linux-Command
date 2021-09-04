@@ -2,7 +2,7 @@ Linux Command Basic
 
 ls --> Lists all files and directories in the present working directory
 
-ls-R --> 	Lists files in sub-directories as well
+ls-R --> Lists files in sub-directories as well
 
 ls-a --> Lists hidden files as well
 
